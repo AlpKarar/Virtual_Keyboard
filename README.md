@@ -27,7 +27,7 @@ After downloading all files in the repo, run the HTML file.<br/>
 ![](https://github.com/AlpKarar/Virtual_Keyboard/blob/main/visuals/enter_inputs.gif)
 <br>
 
-### Using Backspace & The Button "Clear All"
+### Use Backspace & The Button "Clear All"
 ![](https://github.com/AlpKarar/Virtual_Keyboard/blob/main/visuals/backspace_clearAll.gif)
 <br>
 
