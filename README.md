@@ -1,7 +1,5 @@
 # Virtual_Keyboard
-This project is a design of a virtual keyboard on a login page of a website. 
-The main purpose of building up the project is to improve the skills that HTML templates containing various CSS structures can be designed and implemented.
-Additionally, to have a comprehensive perspective on DOM and using JS Objects.
+This project is a virtual keyboard design on the home page of a website. The main purpose of creating the project is to develop skills in designing and applying HTML templates containing various CSS structures. Also to have a comprehensive perspective on the use of DOM and JS Objects.
 
 ## Features of The Virtual Keyboard
 1. Q Keyboard, also known as "QWERTY"
