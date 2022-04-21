@@ -11,21 +11,31 @@ Additionally, to have a comprehensive perspective on DOM and using JS Objects.
     3. Closable by clicking the button "exit" on the bottom-left corner
 3. Ability to clear all characters in the related places
 4. Ability to type characters in the just clicked places without modifying the unclicked places
+<br>
 
 ## How To Run?
-After downloading all files in the repo, run the HTML file.
+After downloading all files in the repo, run the HTML file.<br/>
+<br>
 
 ## Before Initializing The Virtual Keyboard
-visual comes here
+![](https://github.com/AlpKarar/Virtual_Keyboard/blob/main/visuals/the_initial.png)
+<br>
 
 ## Run The Virtual Keyboard
-visual comes here
+![](https://github.com/AlpKarar/Virtual_Keyboard/blob/main/visuals/run_V_Keyboard.gif)
+<br>
+
 ### Enter Inputs
-visual comes here
+![](https://github.com/AlpKarar/Virtual_Keyboard/blob/main/visuals/enter_inputs.gif)
+<br>
+
 ### Using Backspace & The Button "Clear All"
-visual comes here
+![](https://github.com/AlpKarar/Virtual_Keyboard/blob/main/visuals/backspace_clearAll.gif)
+<br>
+
 ### Close The Virtual Keyboard
-visual comes here
+![](https://github.com/AlpKarar/Virtual_Keyboard/blob/main/visuals/close.gif)
+<br>
 
 ## Closing
 All kinds of contributions are welcomed. Always open to comments and issues.
