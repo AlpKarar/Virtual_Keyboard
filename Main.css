@@ -1,0 +1,27 @@
+
+body {
+  font-family: sans-serif;
+  display: block;
+  background-color: rgba(0, 0, 0, 0.818);
+}
+
+#Virtual__Keyboard div img {
+  position: relative;
+  width: 90px;
+  height: 50px;
+  border-radius: 4px;   
+  top: 12px;
+  left: 155px;
+  margin-right: 25px;  
+}
+
+#Virtual__Keyboard div img:hover {
+  cursor: pointer;
+  background-color: rgba(72, 72, 72, 0.547);
+}
+
+
+
+
+
+
