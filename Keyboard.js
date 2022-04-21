@@ -1,4 +1,6 @@
+
 // "Keyboard" acts like a instance of a proto class.
+
 const Keyboard = {
   elements: {
     main: null,
@@ -247,7 +249,7 @@ const Keyboard = {
 };
 
 
-// 
+// Run the object "Keyboard"
 
 window.addEventListener("DOMContentLoaded", function() {
   Keyboard.init();
@@ -295,6 +297,3 @@ value.addEventListener("click", function() {
   Keyboard.isActivated.value = true;
 });
 
-/*
-const spaceBlack = document.querySelector(".space");
-spaceBlack.src = 'assets/Keyboard/space.png';*/
